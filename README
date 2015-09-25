@@ -1,3 +1,7 @@
+===========
+== ABOUT ==
+===========
+
 This is the repository acting as a place for me to post little scripts that I create for various tasks.
 
 This is not meant to reflect large projects, but is meant more to be an analog to a sketchbook; when I
@@ -6,4 +10,15 @@ all have a place here. Everything here is made to be shared (though I don't prom
 necessarily worth sharing...!) and cultivate more sharing.
 
 I hope you enjoy reading through this repo,
-JT 
+JT
+
+
+===========
+== FILES ==
+===========
+
+Currently I'm going to structure the repo's files such that the levels are:
+
+./[Language]/[files]
+
+If this changes at any point in time and subdirectories are added, I'll update this README.
