@@ -4,7 +4,7 @@ exec scala "$0" "$@"
 
 object SampleShellScript{
   def main(args: Array[String]) = {
-  println(s"Hello World, ${args.mkString("::")}");
+    println(s"Hello World, ${args.mkString("::")}");
   }
 }
 
